@@ -1,0 +1,8 @@
+{
+  "name": "UpControls",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a53f39a2"
+}
